@@ -12,6 +12,8 @@ gem 'rails-controller-testing'
 
 gem 'bcrypt',         '3.1.13'
 
+gem 'webpacker',  '4.0.7'
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
